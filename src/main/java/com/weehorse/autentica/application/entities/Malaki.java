@@ -3,10 +3,12 @@ package com.weehorse.autentica.application.entities;
 public class Malaki {
     private String id;
     private String name;
+    private String creator;
 
-    public Malaki(String id, String name) {
+    public Malaki(String id, String name, String creator) {
         this.id = id;
         this.name = name;
+        this.creator = creator;
     }
 
     public String getId() {
@@ -23,5 +25,13 @@ public class Malaki {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getCreator() {
+        return creator;
+    }
+
+    public void setCreator(String creator) {
+        this.creator = creator;
     }
 }
