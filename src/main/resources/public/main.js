@@ -10,8 +10,9 @@ header.render('header')
 
 // map pages (register page classes to urls)
 let pages = {
+    // url     classname
     firstpage: Firstpage,
-    register: Register,
+    register: Register, 
     login: Login,
     malakis: Malakis
 }

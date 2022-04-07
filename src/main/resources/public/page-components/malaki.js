@@ -12,6 +12,7 @@ class Malaki {
         return `
             <article>                
                 <h3>${this.name}</h3>
+                <p>${this.id}</p>
             </article>
         `
     }

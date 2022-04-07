@@ -3,11 +3,12 @@ class Malakis extends Component{
     async load(){
         let result = await fetch(apiHost + '/api/malakis')    
         let data = await result.json()
+        console.log(result, data);
         for(let i = 0; i<data.length; i++){
-            data[i] = new Malaki(data[i]).render()
+            data[i] = new Malaki( data[i] ).render()
         }
-        this.data = data
-
+        this.data = data  
+        //$('footer').html(this.data.join('<hr>'))      
     }
 
     get template() { 

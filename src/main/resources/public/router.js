@@ -13,6 +13,10 @@ function changeRoute(){
     // har vi en klass men ingen instans, ersätter vi klassen med dess instans
     if(pages[page].constructor.name === 'Function'){
         pages[page] = new pages[page]
+        // registrera samtidigt eventuella delegated event handlers
+        if(pages[page].events){
+            pages[page].events() 
+        }
     }
     // vi använder instansen
     pages[page].render()

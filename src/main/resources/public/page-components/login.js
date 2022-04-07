@@ -1,13 +1,12 @@
 class Login extends Component{
 
-    
-
     events(){
         $('body').on('submit', '#login', this.login)
     }
 
     async login(event){
         event.preventDefault()
+        
         let result = await fetch(apiHost + '/api/auth/signin', {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },

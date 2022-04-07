@@ -6,6 +6,7 @@ class Register extends Component{
 
     async register(event){
         event.preventDefault()
+        
         let result = await fetch(apiHost + '/api/auth/signup', {
             method: 'post',
             headers: { 'Content-Type': 'application/json' },
