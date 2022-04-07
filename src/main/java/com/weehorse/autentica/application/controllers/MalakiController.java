@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
-@RequestMapping("/api/malaki")
+@RequestMapping("/api/malakis")
 public class MalakiController {
 
     @Autowired
@@ -30,7 +30,7 @@ public class MalakiController {
     }
 
     @GetMapping()
-    @PreAuthorize("permitAll()")
+    //@PreAuthorize("permitAll()")
     public List<Malaki> get() {
         return malakiRepository.findAll();
     }

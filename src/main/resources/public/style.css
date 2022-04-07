@@ -1,0 +1,8 @@
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
+form>*{
+    margin-bottom:2vh;
+}
