@@ -1,7 +1,7 @@
 class Component{
 
     async render(selector = 'main'){ // default to main element
-        
+                
         if(this.load){
             await this.load() // run any loader
         } 

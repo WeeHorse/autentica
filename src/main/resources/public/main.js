@@ -14,7 +14,8 @@ let pages = {
     firstpage: Firstpage,
     register: Register, 
     login: Login,
-    malakis: Malakis
+    malakis: Malakis,
+    "create-malaki": CreateMalaki
 }
 
 // router
