@@ -8,6 +8,7 @@ class Header extends Component{
                 <a href="#login">Login</a>
                 <a href="#create-malaki">Create Malaki</a>
                 <a href="#malakis">Malakis</a>
+                <a href="#image-upload">Image upload</a>
             </nav>            
         `
     }

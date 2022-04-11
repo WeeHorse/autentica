@@ -15,7 +15,8 @@ let pages = {
     register: Register, 
     login: Login,
     malakis: Malakis,
-    "create-malaki": CreateMalaki
+    "create-malaki": CreateMalaki,
+    "image-upload": ImageUpload
 }
 
 // router
