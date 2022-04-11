@@ -21,14 +21,16 @@ class ImageUpload extends Component{
         const formData = new FormData()
         formData.append('file', this.file)
         formData.append('info', document.querySelector('#upload-info').value)
-        let result = await fetch(apiHost + '/api/images', {
-            // headers: { 
+        
+        let result = await fetch(apiHost + "/file/upload", {
+	 		// headers: { 
             //     'Authorization': 'Bearer ' + user.accessToken
             // },
-            method: 'POST',
-            body: formData
-        })
-        console.log(result)
+				method: 'POST',
+				body: formData
+		})
+		
+         console.log(result)
     }
     
     
