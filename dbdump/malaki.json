@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "624df52840b5c427ae74ba55"
+  },
+  "name": "Tsuba",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624df53240b5c427ae74ba56"
+  },
+  "name": "Thingy",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624df53840b5c427ae74ba57"
+  },
+  "name": "Penny",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624df55ebf1c627a4e8e5e65"
+  },
+  "name": "Spoiler",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624df563bf1c627a4e8e5e66"
+  },
+  "name": "Fancy",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624e1722f9ca4d4c93c1e97f"
+  },
+  "name": "Fancy",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+}]

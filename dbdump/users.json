@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "624aa7301af30b67fea84408"
+  },
+  "username": "Bodil",
+  "email": "bodil@node.se",
+  "password": "$2a$10$1IlRGFRLRWiedQwNRYrofOPxNmr3LYapyGz0YqIdL/1JdwwupnXEu",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624d8f044343d56f8e5552f9"
+  },
+  "username": "Bud",
+  "email": "bud@node.se",
+  "password": "$2a$10$HgwTLPQKHZI8bw5w1nMIguk4tLV.3mlbLSbTVyVq0HCFRdAk8YaMS",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624df51e40b5c427ae74ba54"
+  },
+  "username": "Buddie",
+  "email": "buddie@node.se",
+  "password": "$2a$10$zRJ5quM6g5BrsOm0yKvNa.Ft0iACb/L9MgfLjuomGz0WZcTC332eC",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    },
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e9aa4fed4c4671d0e0"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624df904e6a7037a29e4589e"
+  },
+  "username": "Sprit",
+  "email": "spirit@node.se",
+  "password": "$2a$10$kiF3C0Z876je6CS1VclaGevcUAmyiEKhyjmdVcBCU1awmTUXGGcjG",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624df99fe6a7037a29e4589f"
+  },
+  "username": "Bonnie",
+  "email": "bonnie@node.se",
+  "password": "$2a$10$8pM3JVmAVZvz1HPtwyHDUeAfSfyaJZrQ1IPaaZ6qm20BY9LKhh8GC",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e9aa4fed4c4671d0e0"
+      }
+    },
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624ecdd4e2be714403b155d1"
+  },
+  "username": "Dylan",
+  "email": "dylan@node.se",
+  "password": "$2a$10$r.dNQCLCFRknTR0FmFCwnuLCtCvHXSI3uGH13HD1CopWF7GbtmALy",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    },
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e9aa4fed4c4671d0e0"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+},{
+  "_id": {
+    "$oid": "624ed9b51d557d484ba32699"
+  },
+  "username": "Fishy",
+  "email": "fishy@node.se",
+  "password": "$2a$10$PeNor/vqTIqnUVzEfJcku.zvnEfUhnFD13Ybi1pag/IT/zTciKXNu",
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e5aa4fed4c4671d0df"
+      }
+    },
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "624aa6e9aa4fed4c4671d0e0"
+      }
+    }
+  ],
+  "_class": "com.weehorse.autentica.models.User"
+}]

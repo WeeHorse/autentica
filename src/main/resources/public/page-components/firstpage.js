@@ -1,7 +1,7 @@
 class Firstpage extends Component{
     
     template = `
-        <h1>Welcome to Our Transport</h1>
+        <h1>Welcome to Autentica</h1>
     `
 
 }

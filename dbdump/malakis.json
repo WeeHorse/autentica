@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "624e1889a6e1cc2a2105061b"
+  },
+  "name": "Fancy",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624e1890a6e1cc2a2105061c"
+  },
+  "name": "Flubber",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624e1895a6e1cc2a2105061d"
+  },
+  "name": "Fish finger",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624e18b8a6e1cc2a2105061e"
+  },
+  "name": "Spudgeon",
+  "creator": "624df99fe6a7037a29e4589f",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624e18c4a6e1cc2a2105061f"
+  },
+  "name": "Allen key",
+  "creator": "624df99fe6a7037a29e4589f",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ea04d16b9d4715d1b9bcf"
+  },
+  "name": "Midget",
+  "creator": "624df99fe6a7037a29e4589f",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ea12a54979f58a23d4dad"
+  },
+  "name": "Fish food",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ea15954979f58a23d4dae"
+  },
+  "name": "Moilan",
+  "creator": "624df99fe6a7037a29e4589f",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ed6111d557d484ba32694"
+  },
+  "name": "Fish hand",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ed7331d557d484ba32695"
+  },
+  "name": "Fish foot",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ed7371d557d484ba32696"
+  },
+  "name": "Fish nose",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ed73b1d557d484ba32697"
+  },
+  "name": "Fish ear",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ed7401d557d484ba32698"
+  },
+  "name": "Fish hair",
+  "creator": "624df51e40b5c427ae74ba54",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ee5061d557d484ba3269a"
+  },
+  "name": "Xermit",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ee61a1d557d484ba3269b"
+  },
+  "name": "Fish mouth",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ee6281d557d484ba3269c"
+  },
+  "name": "Fish tail",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ee7a01d557d484ba3269d"
+  },
+  "name": "Xoover",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624ee8ad1d557d484ba3269e"
+  },
+  "name": "Yuma",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624f2c4c84881c660af03278"
+  },
+  "name": "Beanie",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+},{
+  "_id": {
+    "$oid": "624f2c804da36f02531e0a42"
+  },
+  "name": "Aladab",
+  "creator": "624ed9b51d557d484ba32699",
+  "_class": "com.weehorse.autentica.application.entities.Malaki"
+}]
